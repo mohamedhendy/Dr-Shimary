@@ -1,0 +1,10 @@
+{
+  "name": "Dr. Mohammed AL-Shammari",
+  "short_name": "Dr. M. AL-Shammari",
+  "theme_color": "#5EC9E7",
+  "background_color": "#5EC9E7",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": ".",
+  "start_url": "."
+}
